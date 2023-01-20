@@ -30,4 +30,4 @@ Espero que goste ;)
   <a href="https://www.linkedin.com/in/beatriz-riscarolli-gamba-04570719a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![snake gif](https://github.com/BiaRG-10/BiaRG-10/blob/main/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/BiaRG-10/BiaRG-10/blob/output/github-contribution-grid-snake.svg)
