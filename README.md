@@ -3,11 +3,11 @@
 
 - 🎓 Me formei Técnica em Desenvolvimento de Sistemas pelo SENAI no ano passado
 - 📚 Tenho conhecimento nas linguagens: PHP, Python, Java (Back-end), MySQL (Banco de Dados), HTML, CSS, JavaScript (Front-End)
-- 💻 E também em ferramentas como: Xampp (Servidor), MySqlWorkbench (DER), Visual Studio, ApacheNetBens (IDE's), PhpMyAdmin, SQL Server (SGBD), Bootstrap(Framework), Jira (Gerenciamento de Projeto)
+- 💻 E também em ferramentas como: Xampp (Servidor), MySqlWorkbench (DER), Visual Studio, ApacheNetBeans (IDE's), PhpMyAdmin, SQL Server (SGBD), Bootstrap(Framework), Jira (Gerenciamento de Projeto)
 - 🌱 No momento estudo C# e alguns de seus frameworks Web, mas especificamente ASP.NET MVC
 <!-- - 📫 Você pode me encontrar e/ou contatar em: https://www.linkedin.com/in/beatriz-riscarolli-gamba-04570719a/
- -->
-Espero que goste ;)
+ 
+Espero que goste ;) -->
 ##
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiaRG-10&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
@@ -26,7 +26,7 @@ Espero que goste ;)
 ##
 
 <div> 
-  <a href = "mailto:beatrizriscarolli10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:beatrizriscarolli10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/beatriz-riscarolli-gamba-04570719a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
