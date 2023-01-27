@@ -3,7 +3,7 @@
 
 - 🎓 Me formei Técnica em Desenvolvimento de Sistemas pelo SENAI no ano passado
 - 📚 Tenho conhecimento nas linguagens: PHP, Python, Java (Back-end), MySQL (Banco de Dados), HTML, CSS, JavaScript (Front-End)
-- 💻 E também em ferramentas como: Xampp (Servidor), MySqlWorkbench (DER), Visual Studio, ApacheNetBeans (IDE's), PhpMyAdmin, SQL Server (SGBD), Bootstrap(Framework), Jira (Gerenciamento de Projeto)
+- 💻 E também em ferramentas como: Xampp (Servidor), MySqlWorkbench (DER), Visual Studio, ApacheNetBeans (IDE's), PhpMyAdmin, SQL Server (SGBD), Bootstrap (Framework), Jira (Gerenciamento de Projetos)
 - 🌱 No momento estudo C# e alguns de seus frameworks Web, mas especificamente ASP.NET MVC
 <!-- - 📫 Você pode me encontrar e/ou contatar em: https://www.linkedin.com/in/beatriz-riscarolli-gamba-04570719a/
  
