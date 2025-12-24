@@ -4,8 +4,8 @@
 - 🎓 Me formei Técnica em Desenvolvimento de Sistemas pelo SENAI em 2022
 - 📚 Tenho conhecimento nas linguagens: PHP, Java (Back-end), MySQL (Banco de Dados), HTML, CSS, JavaScript (Front-End)
 - 💻 E também em ferramentas como: Xampp (Servidor), MySqlWorkbench (DER), Visual Studio, Eclipse (IDE's), SQL Server (SGBD), Bootstrap (Framework), Jira (Gerenciamento de Projetos)
-<!-- 🌱 No momento estudo Automação de Testes e alguns de seus frameworks Web, mas especificamente Selenium Web Driver
- - 📫 Você pode me encontrar e/ou contatar em: https://www.linkedin.com/in/beatriz-riscarolli-gamba-04570719a/
+ 🌱 No momento estudo Automação de Testes e alguns de seus frameworks Web, mas especificamente Selenium Web Driver
+<!-- - 📫 Você pode me encontrar e/ou contatar em: https://www.linkedin.com/in/beatriz-riscarolli-gamba-04570719a/
  
 Espero que goste ;) -->
 ##
